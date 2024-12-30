@@ -10,3 +10,8 @@ This project involves implementing a basic Multi-Layer Perceptron (MLP), a type 
 3. Training and Evaluation on different datasets
 4. Uses data pre-processing steps and one-hot encoding for dataset handling.
 
+# Installation 
+git clone https://github.com/YangRuhao/MLP_Training.git
+pip install -r requirements.txt
+
+This project was done on Jupyter Notebook, but it can be done on other computing platforms, like Intellij or VScode.
